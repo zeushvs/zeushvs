@@ -1,6 +1,6 @@
 ---
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=32&duration=2800&pause=1200&color=4DB8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harshvardhan+Singh+%F0%9F%91%8B;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+Developer;Welcome+to+My+GitHub+Profile!" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=32&duration=2800&pause=1200&color=4DB8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harshvardhan+Singh+%F0%9F%91%8B;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Welcome+to+My+GitHub+Profile!" /></p>
 
 ---
 
