@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Harshvardhan Singh**
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/4e5f-demo-image" />
+<img align="right" width="250" src="https://static.vecteezy.com/system/resources/thumbnails/008/199/136/small/man-holding-bulb-lamp-nad-brain-with-printed-circuit-board-artificial-intelligence-ai-photo.jpg" />
 
 Welcome to my GitHub! I'm a passionate **Machine Learning**, **Deep Learning**, and **Computer Vision** enthusiast who loves building intelligent and scalable real‑world AI solutions.
 
